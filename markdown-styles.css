@@ -1,0 +1,30 @@
+          @import url('https://fonts.googleapis.com/css2?family=Overpass:wght@800&display=swap');
+
+          /*
+            make sure you include the following CSS
+            in html file outside scope of <zero-md> :
+              <style type="text/css">
+               body {
+                background:  #012430;
+                }
+              </style>
+          */
+
+          html  {
+            background:  #012430;
+          }
+
+          * {
+            padding:  20px 20px;
+            margin: 10px 10px;
+            background:  #012430;
+            font-family: 'Overpass', sans-serif;
+          }
+
+          p, h1, h2, h3, ol, ul {
+            color:  white;
+          }
+
+          code {
+            background:  lightgrey;
+          }
