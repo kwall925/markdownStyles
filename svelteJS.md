@@ -31,7 +31,9 @@ App.Svelte:
 Spread an Object of properties into
 a component:
 
-`<Info {...pkg}/>`
+```
+<Info {...pkg}/>
+```
 
 ## Logic
 
