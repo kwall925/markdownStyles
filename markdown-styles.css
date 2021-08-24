@@ -1,4 +1,3 @@
-          @import url('https://fonts.googleapis.com/css2?family=Overpass:wght@800&display=swap');
 
           /*
             make sure you include the following CSS
@@ -12,22 +11,5 @@
               </style>
           */
 
-          * { font-family: 'Overpass', sans-serif; }
 
-          .markdown-body {
-            display: flex;
-            flex-direction: column;
-            align-items: flex-start;
-          }
-
-          p, h1, h2, h3, ol, ul {
-            color:  white;
-          }
-
-          p { width:  37%; }
-
-          .language-markup {
-            background: #3c484d;
-            color:  #729dab;
-          }
 
