@@ -1,5 +1,4 @@
-
-          /*
+/*
             make sure you include the following CSS
             in html file outside scope of <zero-md> :
               <style type="text/css">
@@ -9,8 +8,7 @@
                   margin: 10px 10px;
                 }
               </style>
-          */
-
+*/
 
       @import url('https://fonts.googleapis.com/css2?family=Overpass:wght@800&display=swap');
 
