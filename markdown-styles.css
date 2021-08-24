@@ -26,6 +26,8 @@
 
       p { width:  37%; }
 
+      p > img { height: 1000px; }
+
       .language-markup {
         background: #3c484d;
         color:  #729dab;
