@@ -1,7 +1,7 @@
 # August 23
 Hey hows it going everybody.
 
-![](August%20232/Photo%20Aug%2023,%202021%20at%2045348%20PM.jpg)
+![](August222/Photo%20Aug%2023,%202021%20at%2045348%20PM.jpg)
 This is my desk.
 
 ## Tomorrow
